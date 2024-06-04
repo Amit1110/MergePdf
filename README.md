@@ -1,2 +1,3 @@
 # MergePdf
-To merge images into pdf
+To merge images into pdf.
+The program is developed using Python language.
