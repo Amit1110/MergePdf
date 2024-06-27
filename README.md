@@ -5,4 +5,4 @@ The program is developed using Python language and its libraries like NLTK, Nump
 This script merges all pictures in a folder into a single pdf file. Read further for details. See the code details for more information and download the script for yourself.
 
 The detailed steps are:
-Step 1:
+Step 1: Open the command line.
