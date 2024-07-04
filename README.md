@@ -7,4 +7,4 @@ This script merges all pictures in a folder into a single pdf file. Read further
 The detailed steps are:
 Step 1: Open the command line.
 
-Step 2:
+Step 2: Run the Python file.
