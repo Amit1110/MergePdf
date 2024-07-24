@@ -9,4 +9,3 @@ Step 1: Open the command line.
 
 Step 2: Run the Python file.
 
-Step 3:
